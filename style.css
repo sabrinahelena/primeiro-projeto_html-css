@@ -1,11 +1,48 @@
 .imagem{
-justify-content: center;
-border-style: solid;
-border-color: black;
+
+display: block;
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 20px;
+border-radius: 10%;
+border-style: dashed;
+border-color: #192bc2;
 }
 
 .header_imagem{
-    justify-content: center;
+
     border-style: solid;
-border-color: black;
+border-color: #192bc2;
+}
+
+.titulo_principal{
+    font-family: Comic Sans, Comic Sans, cursive;
+    text-align: center;
+    color: #08090a; 
+}
+
+.corpo_site{
+  background-color: #7cc6fe;
+}
+
+.titulo_post{
+    font-family: Comic Sans, Comic Sans, cursive;
+}
+
+
+.primeiro_ponto{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;	
+}
+
+.segundo_ponto{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, Arial, Helvetica, sans-serif;
+}
+
+.terceiro_ponto{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, Arial, Helvetica, sans-serif;
+}
+
+.quarto_ponto{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, Arial, Helvetica, sans-serif;
 }
